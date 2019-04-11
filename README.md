@@ -2,9 +2,9 @@
 Technology Assessment
 
 ## About App Internal
-Language used: kotlin
-Netwroking: Retrofit
-Android Jetpack: Androidx
+Language used: kotlin,
+Netwroking: Retrofit,
+Android Jetpack: Androidx, RecycleView, Fragment.
 
 ## Steps to Run the application
 1) Download the application from github or clone it from cammand line by using this command (git clone https://github.com/omprakash8080/AndroidTest_13April.git)
