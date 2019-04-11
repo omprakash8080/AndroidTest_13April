@@ -1,8 +1,10 @@
 # AndroidTest_13April
 Technology Assessment
 
-## Steps to Run the application
+## About App Internal
 Language used: kotlin
+Netwroking: Retrofit
+Android Jetpack: Androidx
 
 ## Steps to Run the application
 1) Download the application or directly clone from cammand line (git clone https://github.com/omprakash8080/AndroidTest_13April.git)
