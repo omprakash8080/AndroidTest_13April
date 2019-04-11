@@ -2,7 +2,7 @@
 Technology Assessment
 
 ## Steps to Run the application
-Launguage used: kotlin
+Language used: kotlin
 
 ## Steps to Run the application
 1) Download the application or directly clone from cammand line (git clone cloneUril)
