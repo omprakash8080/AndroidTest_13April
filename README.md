@@ -3,7 +3,7 @@ Technology Assessment
 
 ## About App Internal
 Language used: kotlin,
-Netwroking: Retrofit,
+Networking: Retrofit,
 Android Jetpack: Androidx, RecycleView, Fragment.
 
 ## Steps to Run the application
